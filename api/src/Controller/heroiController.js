@@ -1,1 +1,1 @@
-import { SuperHeroi } from "../repository/heroiRepository"
+import { SuperHeroi } from "../repository/heroiRepository.js";
