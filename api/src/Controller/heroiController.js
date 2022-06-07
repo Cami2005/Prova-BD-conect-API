@@ -1,0 +1,1 @@
+import { SuperHeroi } from "../repository/heroiRepository"
